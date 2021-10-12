@@ -13,7 +13,7 @@
 
 - 📫 How to reach me at Linkedin **sreekanthkrishnan215**
 
-- ⚡ Fun fact **I think a all time Learner**
+- ⚡ Fun fact **I think  i am a all time Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
