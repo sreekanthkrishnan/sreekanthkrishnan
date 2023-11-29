@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreekanth Krishnan,</h1>
 <h3 align="center">A passionate Front end developer from Kerala, India. I Like to work with front end technologies, Personally i am in love with React JS. I would like to contribute open source projects. I am always believe in my skills and always try to encourage my own. I store all my codebases in this account, and you can see it.</h3>
 
-- 🔭 I’m currently working on [Steyp Pvt Ltp](https://steyp.com/)
+- 🔭 I’m currently working on [Techversant Infotech Pvt Ltd](https://www.techversantinfotech.com/)
 
 - 🌱 I’m currently learning **Node Js**
 
